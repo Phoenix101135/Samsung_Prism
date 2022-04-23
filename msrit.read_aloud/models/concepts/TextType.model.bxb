@@ -1,0 +1,9 @@
+enum (TextType) {
+  description (Section type)
+  symbol(PAGE)
+  symbol(CHAPTER)
+  symbol(SECTION)
+  symbol (PARAGRAPH)
+  symbol (SENTENCE)
+  // symbol (UNIT)
+}

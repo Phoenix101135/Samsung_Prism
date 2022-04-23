@@ -1,0 +1,10 @@
+enum (ActionType) {
+  description (User specifies action such as next,previous,again,skip,repeat,etc)
+  symbol (STOP)
+  symbol(PAUSE)
+  symbol (START)
+  symbol (READ)
+  symbol(REPEAT)
+  symbol (SKIP)
+  
+}

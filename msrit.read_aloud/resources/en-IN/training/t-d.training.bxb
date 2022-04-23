@@ -1,0 +1,17 @@
+train (t-d3nlkj92vjuhesl26swluhjm4) {
+  utterance ("[g:ConvertRelativeActionToJSON] (Read)[v:ActionType:READ] aloud rest of (this)[v:NavigationInfo:THIS]")
+  last-modified (1644593070500)
+}
+train (t-dwfqwl4th8bg1z4el00p19qfm) {
+  utterance ("[g:ConvertSpecificActionToJSON] (Goto)[v:ActionType:READ] (page)[v:TextType:PAGE] (3)[v:Index]")
+  enabled (false)
+  last-modified (1644587886078)
+}
+train (t-d1elkg1e6ec3sjkygsz6t4jqc) {
+  utterance ("[g:ConvertRelativeActionToJSON] (go to)[v:ActionType:READ] (next)[v:NavigationInfo:NEXT] (paragraph)[v:TextType:PARAGRAPH]")
+  last-modified (1649577157804)
+}
+train (t-d7pwxomlqzigl9usm5k5j8j0y) {
+  utterance ("[g:ConvertRelativeActionToJSON] (go to)[v:ActionType:READ] (last)[v:NavigationInfo:PREVIOUS] (page)[v:TextType:PAGE]")
+  last-modified (1649577800902)
+}

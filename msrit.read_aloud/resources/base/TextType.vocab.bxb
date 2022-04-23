@@ -1,0 +1,8 @@
+vocab(TextType){
+  "PAGE" {"page","pages","messages"}
+  "CHAPTER" {"chapter","chapters"}
+  "SECTION" {"section","sections"}
+  "PARAGRAPH" {"paragraph","paragraphs","para","segment","segments","part","passage","photographs","paras"}
+  "SENTENCE" {"sentence","sentences","line","lines"}
+  // "UNIT" {"unit","section","chapter"}
+}

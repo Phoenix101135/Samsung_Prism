@@ -1,0 +1,24 @@
+capsule {
+  id (msrit.read_aloud)
+  version (0.1.1)
+  format (3)
+  targets {
+    target (bixby-mobile-en-IN)
+  }
+  runtime-version (9)
+  store-countries {
+    all
+  }
+  capsule-imports {
+    import (viv.shareVia) {
+      as (shareVia)
+      version (1.12.1)
+    }
+  }
+  store-sections {
+    section (EducationAndReference)
+  }
+  device-models {
+    all
+  }
+}

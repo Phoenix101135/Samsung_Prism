@@ -1,0 +1,9 @@
+vocab(ActionType){
+  "STOP" {"stop","wait","silence"}
+  "PAUSE" {"pause"}
+  "READ" {"read","go to","jump to","skip to"}
+  "REPEAT" {"repeat","repeats"}
+  "START" {"start", "start over"}
+  "SKIP" {"skip","skip by"}
+  
+}

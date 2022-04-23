@@ -1,0 +1,12 @@
+train (t-crrufw7wfym8glu3jz88h89nm) {
+  utterance ("[g:ConvertRelativeActionToJSON] (go to)[v:ActionType:READ] (next)[v:NavigationInfo:NEXT] (sentence)[v:TextType:SENTENCE]")
+  last-modified (1649577148888)
+}
+train (t-cjqf7uz9ia7epkrxkb4jafve5) {
+  utterance ("[g:ConvertRelativeActionToJSON] (go to)[v:ActionType:READ] (next)[v:NavigationInfo:NEXT] (page)[v:TextType:PAGE]")
+  last-modified (1649577140546)
+}
+train (t-cc77wmc79vlr9b2gm7hi62qdh) {
+  utterance ("[g:ConvertRelativeActionToJSON] (Skip)[v:ActionType:SKIP] (the)[v:NavigationInfo:THIS] (page)[v:TextType:PAGE]")
+  last-modified (1650100277236)
+}

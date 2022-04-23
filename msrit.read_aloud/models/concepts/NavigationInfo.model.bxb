@@ -1,0 +1,6 @@
+enum(NavigationInfo) {
+  description (Specifies the relative postition of the text)
+  symbol(PREVIOUS)
+  symbol(NEXT)
+  symbol(THIS)
+}

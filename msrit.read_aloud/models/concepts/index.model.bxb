@@ -1,0 +1,4 @@
+decimal (Index){
+  description ("Specifies the index of TextType to read. Eg - Read (3)rd Para, Go to (5)th sentence")
+
+}

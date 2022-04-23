@@ -1,0 +1,11 @@
+action (ShareVia) {
+  description ()
+  type (Constructor)
+  collect {
+    input (uri) {
+      type (TextType)
+      min (Optional) max (One)
+    }
+  }
+  output (ShareViaResult)
+}

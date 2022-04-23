@@ -1,0 +1,14 @@
+train (t-mk71i66q2r9xint8t552pi6hr) {
+  utterance ("[g:ConvertIndexActionToJSON] (skip)[v:ActionType:RESUME] (3)[v:NavigationInfo] (paragraphs)[v:TextType:PARAGRAPH]")
+  enabled (false)
+  last-modified (1644136448402)
+}
+train (t-mjka17t0y0rg5l5mn0j02nhi7) {
+  utterance ("[g:ConvertRelativeActionToJSON] (Skip)[v:ActionType:SKIP] (3)[v:Index] (paras)[v:TextType:PARAGRAPH]")
+  enabled (false)
+  last-modified (1644587901779)
+}
+train (t-m2bo7a32u0c9dnec7m25blde3) {
+  utterance ("[g:ConvertRelativeActionToJSON] (Read)[v:ActionType:READ] Aloud rest of (this)[v:NavigationInfo:THIS] website")
+  last-modified (1644652400005)
+}

@@ -1,0 +1,5 @@
+vocab(NavigationInfo){
+  "PREVIOUS" {"prev","previous","last"}
+  "NEXT" {"next","nest"}
+  "THIS" {"this","current","here","visible","the"}
+}

@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (Bixby Read Aloud)
+  developer-name (Prism Team)
+  description ("Read Aloud Capsule")
+  dispatch-name (Bixby Read Aloud Capsule)
+  search-keywords{
+    keyword ("Read Aloud")
+  }
+  // Set your own image for your capsule's icon
+  icon-asset (images/icons/bixby_launcher.png)
+}

@@ -1,0 +1,23 @@
+action (ConvertRelativeActionToJSON) {
+  description (__DESCRIPTION__)
+  type(Calculation)
+  collect {
+    input (ActionType) {
+      type (ActionType)
+      min (Optional) max (One)
+    }
+    input (TextType) {
+      type (TextType)
+      min (Optional) max (One)
+    }
+    input (NavigationInfo){
+      type(NavigationInfo)
+      min (Optional) max (One)
+    }
+    input (Index){
+      type(Index)
+      min (Optional) max (One)
+    }
+  }
+  output (ExportJSON)
+}
